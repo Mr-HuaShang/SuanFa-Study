@@ -1,7 +1,4 @@
-package com.cyq.suanfa;
-
-import java.util.HashMap;
-import java.util.Map;
+package com.cyq.suanfa.sort;
 
 //冒泡排序
 public class bubbleSort {

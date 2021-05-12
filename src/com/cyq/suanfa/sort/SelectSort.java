@@ -1,4 +1,4 @@
-package com.cyq.suanfa;
+package com.cyq.suanfa.sort;
 
 
 //选择排序

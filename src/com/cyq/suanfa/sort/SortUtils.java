@@ -1,4 +1,4 @@
-package com.cyq.suanfa;
+package com.cyq.suanfa.sort;
 
 public class SortUtils {
 
